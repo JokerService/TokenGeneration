@@ -1,0 +1,9 @@
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\bin\Debug\TokenGenerator.exe.config
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\bin\Debug\TokenGenerator.exe
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\bin\Debug\TokenGenerator.pdb
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\bin\Debug\JWT.dll
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.csprojResolveAssemblyReference.cache
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.Properties.Resources.resources
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.csproj.GenerateResource.Cache
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.exe
+C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.pdb
