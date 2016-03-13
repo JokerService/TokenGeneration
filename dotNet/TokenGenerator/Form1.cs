@@ -26,7 +26,7 @@ namespace TokenGenerator
             };
             Dictionary<string, string> strs1 = new Dictionary<string, string>()
             {
-                { "UserName", this.txtUserName.Text },
+                { lblUserName.Text, this.txtUserName.Text },
                 { "ChannelName", this.txtChannelName.Text },
                 { "Culture", this.txtCulture.Text },
                 { "TimeZone", this.txtTimeZone.Text },
@@ -54,6 +54,20 @@ namespace TokenGenerator
         private void TokenGenerator_Load(object sender, EventArgs e)
         {
             this.dtPickerExp.Value = DateTime.UtcNow;
+        }
+
+        private void rbAuthenticator_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rbUserLogin.Checked)
+            {
+                rbAdminAuthenticator.Checked = false;
+                lblUserName.Text = "UserName";
+            }
+            else
+            {
+                rbUserLogin.Checked = false;
+                lblUserName.Text = "AdminUserName";
+            }
         }
     }
    

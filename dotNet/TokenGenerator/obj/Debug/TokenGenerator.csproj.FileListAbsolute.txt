@@ -7,3 +7,13 @@ C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.Prope
 C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.csproj.GenerateResource.Cache
 C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.exe
 C:\Projects\TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.pdb
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\bin\Debug\TokenGenerator.exe.config
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\bin\Debug\TokenGenerator.exe
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\bin\Debug\TokenGenerator.pdb
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\bin\Debug\JWT.dll
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.csprojResolveAssemblyReference.cache
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.Properties.Resources.resources
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.csproj.GenerateResource.Cache
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.exe
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.pdb
+C:\Projects\JaaS TokenGeneration\dotNet\TokenGenerator\obj\Debug\TokenGenerator.Form1.resources
