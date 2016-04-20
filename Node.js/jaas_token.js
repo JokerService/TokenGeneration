@@ -1,3 +1,4 @@
+// used https://github.com/auth0/node-jsonwebtoken 
 var jwt = require("jsonwebtoken");
 
 
